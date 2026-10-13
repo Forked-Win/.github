@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Forked-Win/.github/main/profile/banner.svg" alt="forked.win: we fork it, we fix it, we send it back" width="100%">
+<img src="https://raw.githubusercontent.com/Forked-Win/.github/main/banner.svg" alt="forked.win: we fork it, we fix it, we send it back" width="100%">
 
 <br>
 
